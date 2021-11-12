@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Depozitniy_Calculiator</string>
+    <string name="monobank">MonoBank</string>
+    <string name="privat">Privat</string>
+    <string name="oshadbank">Oshadbank</string>
+    <string name="aval">Aval</string>
+</resources>

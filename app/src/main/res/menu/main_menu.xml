@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/MonoBank"
+        android:title="@string/monobank"
+        android:orderInCategory="100"/>
+
+    <item
+        android:id="@+id/Privat"
+        android:orderInCategory="100"
+        android:title="@string/privat"   />
+    <item
+        android:id="@+id/Oshadbank"
+        android:orderInCategory="100"
+        android:title="@string/oshadbank"   />
+    <item
+        android:id="@+id/Aval"
+        android:orderInCategory="100"
+        android:title="@string/aval"  />
+</menu>
